@@ -1,3 +1,3 @@
 # age calculator project
 
-prject made with html css and js.
+prject made with html css and js!
